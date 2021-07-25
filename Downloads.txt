@@ -1,0 +1,4 @@
+"C:\Users\mchetankumar\OneDrive - Deloitte (O365D)\Completed Assignments\Apparel\Applied_AI_Workshop_Code_Data\16k_images"
+"C:\Users\mchetankumar\OneDrive - Deloitte (O365D)\Completed Assignments\Apparel\Applied_AI_Workshop_Code_Data\16k_data_cnn_features.npy"
+"C:\Users\mchetankumar\OneDrive - Deloitte (O365D)\Completed Assignments\Apparel\Applied_AI_Workshop_Code_Data\tops_fashion.json"
+"C:\Users\mchetankumar\OneDrive - Deloitte (O365D)\Completed Assignments\Apparel\Applied_AI_Workshop_Code_Data\word2vec_model"
